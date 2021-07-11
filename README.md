@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanKamaa
+- 👋 Hi, I’m @Ian_Kamande
 - 😎Juniour web developer 💯
 - 🌱 I’m currently learning javascript.
 - 🤑🤑 I’m looking to collaborate on anything you have in mind👍
